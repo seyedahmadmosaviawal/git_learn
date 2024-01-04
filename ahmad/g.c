@@ -1,0 +1,1 @@
+printf("salam G");

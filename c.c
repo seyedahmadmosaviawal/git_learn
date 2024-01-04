@@ -7,5 +7,6 @@ int main(){
 	printf("please enter two string seperated by space\n");
 	scanf("%s %s\n", &a, &b);
 	printf("you have entered two String --> first: %s.\nsecond: %s.\n", a, b);
+	printf("khoda hafez");
 	return 0;
 }
